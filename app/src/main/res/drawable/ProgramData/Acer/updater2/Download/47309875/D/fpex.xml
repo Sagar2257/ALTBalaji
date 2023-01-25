@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FixpackExtension>
+  <Validation>
+    <Pattern>bexhV0VcCA3COfW9TcyHg4OD9pbk1vF+LfDTQHkB4XJWlN/ZtlLIWw==</Pattern>
+    <Files>
+      <File>ALU_PreloadProcess_Detect.cmd</File>
+      <File>FixpackInfo.xml</File>
+      <File>FpCheck.bat</File>
+      <File>HTTP2GA.exe</File>
+      <File>RunCmdX.exe</File>
+    </Files>
+  </Validation>
+  <UserBehaviors>
+    <MaximumIgnoreTimes>5</MaximumIgnoreTimes>
+  </UserBehaviors>
+  <Config>
+    <Shutdown>False</Shutdown>
+  </Config>
+</FixpackExtension>

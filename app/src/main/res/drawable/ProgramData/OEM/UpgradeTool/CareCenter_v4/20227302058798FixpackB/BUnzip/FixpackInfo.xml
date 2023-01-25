@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root>
+<Acer>
+	<AppName>Acer Care Center</AppName>
+	<AvoidWindow>
+		<WindowName>Care Center</WindowName>
+		<WindowName>Acer Care Center</WindowName>
+	</AvoidWindow>
+	<DetectWindow>Yes</DetectWindow>
+	<ModuleName>CareCenter_v4</ModuleName>
+	<Guid>{AFB52E98-7597-4484-9202-58F0FD3512ED}</Guid>
+	<FixpackD>Setup.exe</FixpackD>
+	<FixpackB>
+		<Installer>Setup.exe</Installer>
+		<Parameters>-s</Parameters>
+	</FixpackB>
+</Acer>
+<PackardBell>
+	<AppName>Packard Bell Care Center</AppName>
+	<AvoidWindow>
+		<WindowName>Care Center</WindowName>
+		<WindowName>Packard Bell Care Center</WindowName>
+	</AvoidWindow>
+	<DetectWindow>Yes</DetectWindow>
+	<ModuleName>CareCenter_v4</ModuleName>
+	<Guid>{AFB52E98-7597-4484-9202-58F0FD3512ED}</Guid>
+	<FixpackD>Setup.exe</FixpackD>
+	<FixpackB>
+		<Installer>Setup.exe</Installer>
+		<Parameters>-s</Parameters>
+	</FixpackB>
+</PackardBell>
+<Gateway>
+	<AppName>Gateway Care Center</AppName>
+	<AvoidWindow>
+		<WindowName>Care Center</WindowName>
+		<WindowName>Gateway Care Center</WindowName>
+	</AvoidWindow>
+	<DetectWindow>Yes</DetectWindow>
+	<ModuleName>CareCenter_v4</ModuleName>
+	<Guid>{AFB52E98-7597-4484-9202-58F0FD3512ED}</Guid>
+	<FixpackD>Setup.exe</FixpackD>
+	<FixpackB>
+		<Installer>Setup.exe</Installer>
+		<Parameters>-s</Parameters>
+	</FixpackB>
+</Gateway>
+</Root>

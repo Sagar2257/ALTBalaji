@@ -1,0 +1,9 @@
+2022-8-29-21-35-5: [debug][GetAddressLimit]the disk name 0
+
+2022-8-29-21-35-5: The disk path is \\.\PHYSICALDRIVE0
+2022-8-29-21-35-5: i_ret of ReadNativeMaxAddress : 50
+ReadNativeMax address0
+
+2022-8-29-21-35-5: ----------------------------
+Return ok, m_lsize 1000215216
+

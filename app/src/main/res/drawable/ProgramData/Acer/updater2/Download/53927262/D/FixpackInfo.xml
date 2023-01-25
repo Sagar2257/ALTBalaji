@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FixpackInfo>
+  <ID>Fixpack3-098</ID>
+  <DATE>2018/01/31</DATE>
+  <COMMAND>FpInstall.bat</COMMAND>
+  <VERSION></VERSION>
+  <GUID>{C21E98CA-F853-4883-80F1-83093CAB4202}</GUID>
+  <PM>Hung Sam Hsieh</PM>
+  <PROJECT>UEIP</PROJECT>
+  <BIOS_MODEL></BIOS_MODEL>
+  <SN>-~-</SN>
+</FixpackInfo>

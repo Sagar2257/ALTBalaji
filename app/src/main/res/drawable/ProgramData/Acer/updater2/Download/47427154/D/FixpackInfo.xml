@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FixpackInfo>
+  <ID>ForPinoTest</ID>
+  <DATE>2015/10/12</DATE>
+  <COMMAND>FpInstall.bat</COMMAND>
+  <VERSION>1.00.3009</VERSION>
+  <GUID>{6A043DC0-4589-45E2-84DF-238D549CA9E8}</GUID>
+  <PM>Hank Tsai</PM>
+  <PROJECT>alu_app</PROJECT>
+  <BIOS_MODEL></BIOS_MODEL>
+  <SN>-~-</SN>
+</FixpackInfo>

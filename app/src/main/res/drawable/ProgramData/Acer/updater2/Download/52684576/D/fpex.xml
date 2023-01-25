@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FixpackExtension>
+  <Validation>
+    <Pattern>KVKxQMbW806lRKXaagZ30GQKRHAVrTrix6E0TwDiKDK5Sd16HAp+dQ==</Pattern>
+    <Files>
+      <File>ALUSNCheck.exe</File>
+      <File>FixpackInfo.xml</File>
+      <File>FixpackSN.csv</File>
+      <File>FpCheck.bat</File>
+      <File>HTTP2GA.exe</File>
+    </Files>
+  </Validation>
+  <UserBehaviors>
+    <MaximumIgnoreTimes>5</MaximumIgnoreTimes>
+  </UserBehaviors>
+  <Config>
+    <Shutdown>False</Shutdown>
+  </Config>
+</FixpackExtension>

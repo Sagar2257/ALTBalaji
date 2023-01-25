@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FixpackInfo>
+  <ID>Fixpack3-099</ID>
+  <DATE>2017/05/10</DATE>
+  <COMMAND>FpInstall.bat</COMMAND>
+  <VERSION>12</VERSION>
+  <GUID>{A0534FA2-4E68-4720-8ED7-DC6757564DE8}</GUID>
+  <PM></PM>
+  <PROJECT>Multi</PROJECT>
+  <BIOS_MODEL></BIOS_MODEL>
+  <SN>-~-</SN>
+</FixpackInfo>

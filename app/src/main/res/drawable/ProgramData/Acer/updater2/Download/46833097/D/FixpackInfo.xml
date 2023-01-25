@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FixpackInfo>
+  <ID>Fixpack3-005</ID>
+  <DATE>2015/08/05</DATE>
+  <COMMAND>FpInstall.bat</COMMAND>
+  <VERSION>1.00.0000</VERSION>
+  <GUID>{A82C9FE9-F073-4C27-B8BB-6696F28E8FDF}</GUID>
+  <PM>Justin Chen</PM>
+  <PROJECT>All Project</PROJECT>
+  <BIOS_MODEL></BIOS_MODEL>
+  <SN>-~-</SN>
+</FixpackInfo>

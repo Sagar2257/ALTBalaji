@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FixpackExtension>
+  <Validation>
+    <Pattern>cE79gC2V6YMek0wrUGEEcZgIpgNu84/JupcmUR+6hMVuA1W5I0IYDQ==</Pattern>
+    <Files>
+      <File>FixpackInfo.xml</File>
+      <File>FpCheck.bat</File>
+      <File>HTTP2GA.exe</File>
+      <File>NeedToRunUpdateReBuildSSD.exe</File>
+    </Files>
+  </Validation>
+  <UserBehaviors>
+    <MaximumIgnoreTimes>5</MaximumIgnoreTimes>
+  </UserBehaviors>
+  <Config>
+    <Shutdown>False</Shutdown>
+  </Config>
+</FixpackExtension>

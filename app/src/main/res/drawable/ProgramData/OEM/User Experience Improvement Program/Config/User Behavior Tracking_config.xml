@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config version="3">
+  <Settings>
+    <RemoteConfig check_period="7" />
+    <LiveUpdate check_period="7" />
+    <UploadInfo check_period="14" />
+  </Settings>
+</Config>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<FixpackExtension>
+  <Validation>
+    <Pattern>G9rE140x7Y2SIOi/gj/l9b5ve2l1IFTx4TEKmua2gb3KyaO+c/CpZQ==</Pattern>
+    <Files>
+      <File>AcerDriveUpgradeDetect.exe</File>
+      <File>FixpackInfo.xml</File>
+      <File>FpCheck.bat</File>
+      <File>HTTP2GA.exe</File>
+    </Files>
+  </Validation>
+  <UserBehaviors>
+    <MaximumIgnoreTimes>5</MaximumIgnoreTimes>
+  </UserBehaviors>
+  <Config>
+    <Shutdown>False</Shutdown>
+  </Config>
+</FixpackExtension>

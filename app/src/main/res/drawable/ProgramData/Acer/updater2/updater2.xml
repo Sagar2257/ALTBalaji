@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<updater2 version="ACC_4.00.3042">
+  <env>
+    <updateTimeInterval>7.00:00:00</updateTimeInterval>
+    <lastUpdateTime>2023-01-03T09:30:16.1524743+05:30</lastUpdateTime>
+    <lastSelfUpdateTime>2023-01-03T09:30:16.1524743+05:30</lastSelfUpdateTime>
+    <isLastCheckStatusGood>False</isLastCheckStatusGood>
+    <lastBootUpTime>2023-01-13T20:19:28.5000000</lastBootUpTime>
+    <isFubdlrDone>True</isFubdlrDone>
+    <siid>b8a175c2-a462-49c5-90ab-9040818982af</siid>
+    <sendExceptionReport>True</sendExceptionReport>
+  </env>
+  <packages />
+</updater2>

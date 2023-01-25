@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<oobe>
+	<oemdata>
+		<checkbox1>
+			<label>Agree to register this device under my AcerID (one will be created if the email address is not registered yet)</label>
+			<value>true</value>
+		</checkbox1>
+		<checkbox2>
+			<label>Agree to receive offers and updates from Acer</label>
+			<value>true</value>
+		</checkbox2>
+		<checkbox3>
+			<label>Allow Acer to share my contact details with Norton to receive updates about the pre-installed security software of this device</label>
+			<value>true</value>
+		</checkbox3>
+		<customerinfo>
+			<label>Allow Acer to provide enhanced support and improve device usage experience through User Experience Improvement Program, and accept its terms of use</label>
+			<value>true</value>
+		</customerinfo>
+	</oemdata>
+</oobe>

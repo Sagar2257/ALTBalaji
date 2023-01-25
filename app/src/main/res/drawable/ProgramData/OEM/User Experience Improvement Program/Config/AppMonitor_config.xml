@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config  version ="3" >
+	<Settings name="AppMonitor" enable="true">
+		<Application 
+			name="AppInstallList"			
+			type="exe"
+			runas_admin="true"
+			path="E/3M67jgEdMvZhVazjnsnkfC7fx9htams7xRypDoMms="
+			/>
+		<Application 
+			name="AppUsage"
+			type="exe"
+			runas_admin="false"
+			path="jafkYbK1s1t2Hs/2en3YQDCd77L/1c/2eXgLdKlW36U="
+			/>
+	</Settings>
+	<AppMonitorPlugin>
+		<InstalledPackageAgent timetype="d" PeriodToWriteFile="14" />	
+		<AppUsageAgent timetype="h" PeriodToWriteFile="1" />	
+	</AppMonitorPlugin>
+</Config>

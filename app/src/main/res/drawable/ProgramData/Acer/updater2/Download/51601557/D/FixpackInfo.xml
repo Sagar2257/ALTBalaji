@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FixpackInfo>
+  <ID>Fixpack3-057</ID>
+  <DATE>2016/06/20</DATE>
+  <COMMAND>FpInstall.bat</COMMAND>
+  <VERSION>20160615</VERSION>
+  <GUID>{D6453423-C8D9-4C7C-87C4-CF0582C445DC}</GUID>
+  <PM>Ajax Wu</PM>
+  <PROJECT>All Projects</PROJECT>
+  <BIOS_MODEL></BIOS_MODEL>
+  <SN>-~-</SN>
+</FixpackInfo>
